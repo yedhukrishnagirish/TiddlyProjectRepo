@@ -1,16 +1,12 @@
 {
-    "name": "def",
-    "items": {
-        "case1": "Load case",
-        "case2": "Simulation",
-        "case3": "Testing",
-        "case4": "Debugging",
-        "case5": "Deleting",
-        "case6": "Requirements"
-    },
-    "difficulty": {
-        "case1": "Junior",
-        "case2": "Senior",
-        "case3": "Expert"
-    }
+  "name": "def",
+  "items": [
+    "Load case",
+    "Simulation",
+    "Testing",
+    "Debugging",
+    "Deleting",
+    "Requirements"
+  ],
+  "difficulty: ["Junior", "Senior", "Expert"]
 }
