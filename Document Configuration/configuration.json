@@ -6,7 +6,8 @@
     "Testing",
     "Debugging",
     "Deleting",
-    "Requirements"
+    "Requirements",
+    "Hold"
   ],
   "difficulty": ["Junior", "Senior", "Expert"]
 }
