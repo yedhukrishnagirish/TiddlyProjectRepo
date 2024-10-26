@@ -1,0 +1,26 @@
+{
+    "_uvar_local_task": "Modalanalyse einer Platte mit Sickenmuster #1",
+    "_uvar_local_inscope": "Wert der Eigenfrequenzen, Modalform",
+    "_uvar_local_outscope": "Amplitude, Materialspannung",
+    "_basic_model": {
+        "_uvar_local_numerics": ["FEM", "Non FEM"],
+        "_uvar_local_solver": [
+            "Abaqus", "Epilysis", "MSC Nastran", "UG NX Nastran", "LS Dyna",
+            "Radioss", "OpenRadioss", "OpenFOAM", "Fluent", "StarCCM+"
+        ]
+    },
+    "_uvar_local_definition_status": ["Not Yet Started", "In Progress", "Complete"],
+    "_physicsmodel_base": {
+        "_uvar_local_catbase": ["Fluid", "Structure", "Multi Body"],
+        "_uvar_local_catbase_behaviour": ["Compressible", "Incompressible", "Elastic", "Inelastic"],
+        "_uvar_local_catbase_thermal": ["Isothermal", "Non Isothermal"],
+        "_uvar_local_catbase_time": ["Stationary", "Transient"],
+        "_uvar_local_catbase_complexity": ["Fluid", "Structure", "Linear", "Non Linear"]
+    },
+    "_physicsmodel_special": {
+        "_uvar_local_catspecial_1": ["Single Phase", "Multiphase", "Contacts", "No Contacts"],
+        "_uvar_local_catspecial_2": ["Single Species", "Multi Species", "Simple Conn", "Complex Conn"],
+        "_uvar_local_catspecial_3": ["Acoustic", "Non Acoustic"]
+    },
+    "_uvar_local_gencomdefinition": "Die Modalanalyse mit Finiten Elementen ist eine Analyse der Steifigkeitsmatrix. Das Problem wird linearisiert, d. h. es kommen nur elastische Materialeigenschaften zum Einsatz..."
+}
