@@ -8,5 +8,5 @@
     "Deleting",
     "Requirements"
   ],
-  "difficulty: ["Junior", "Senior", "Expert"]
+  "difficulty": ["Junior", "Senior", "Expert"]
 }
