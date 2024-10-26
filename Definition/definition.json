@@ -15,7 +15,7 @@
         "_uvar_local_catbase_behaviour": ["Compressible", "Incompressible", "Elastic", "Inelastic"],
         "_uvar_local_catbase_thermal": ["Isothermal", "Non Isothermal"],
         "_uvar_local_catbase_time": ["Stationary", "Transient"],
-        "_uvar_local_catbase_complexity": ["Fluid", "Structure", "Linear", "Non Linear"]
+        "_uvar_local_catbase_complexity": ["Laminar", "Turbulent", "Linear", "Non Linear"]
     },
     "_physicsmodel_special": {
         "_uvar_local_catspecial_1": ["Single Phase", "Multiphase", "Contacts", "No Contacts"],
