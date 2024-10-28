@@ -1,6 +1,6 @@
 {
     "_uvar_local_task": "New quotation",
-    "_uvar_local_inscope": "Wert der Eigenfrequenzen, Modalform",
+    "_uvar_local_inscope": "Wert der  Modalform",
     "_uvar_local_outscope": "Amplitude, Materialspannung",
     "_basic_model": {
         "_uvar_local_numerics": ["FEM", "Non FEM"],
