@@ -11,7 +11,7 @@
     },
     "_uvar_local_definition_status": ["Not Yet Started", "In Progress", "Complete"],
     "_physicsmodel_base": {
-        "_uvar_local_catbase": ["Fluid", "Structure", "Multi Body","extra1","extra2"],
+        "_uvar_local_catbase": ["Fluid", "Structure", "Multi Body"],
         "_uvar_local_catbase_behaviour": ["Compressible", "Incompressible", "Elastic", "Inelastic"],
         "_uvar_local_catbase_thermal": ["Isothermal", "Non Isothermal"],
         "_uvar_local_catbase_time": ["Stationary", "Transient"],
