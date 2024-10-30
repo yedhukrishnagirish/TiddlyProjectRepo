@@ -1,0 +1,12 @@
+{
+  "_uvar_local_caemodel": "cae model",
+  "_uvar_local_caemodelguideline": "_uvar_local_caemodelguideline",
+  "_uvar_local_simmodel":"_uvar_local_simmodel",
+  "_uvar_local_simmodelguideline":"_uvar_local_simmodelguideline",
+  "_viewaction_solverinput":"_viewaction_solverinput",
+  "_viewaction_solverrun":"_viewaction_solverrun",
+  "_viewaction_solveroutput":"_viewaction_solveroutput",
+  "_viewaction_rawresults":"_viewaction_rawresults",
+  "_viewaction_processedesults":"_viewaction_processedesults",
+  "_viewaction_keyesults":"_viewaction_keyesults"
+}
